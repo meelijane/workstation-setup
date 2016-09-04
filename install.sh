@@ -1,24 +1,22 @@
 #!/usr/bin/env bash
 
+# This just makes terminal ask us for passwords slightly less.
 sudo -v;
+
 . xcode.sh;
 
-sudo -v;
 . ssh-key.sh;
 
-sudo -v;
 . mac-os-auto-updates.sh;
 
-sudo -v;
 . homebrew.sh;
 
-sudo -v;
 . wget.sh;
 
-sudo -v;
 . git.sh;
 
-sudo -v;
+. clojure.sh;
+
 . atom.sh;
 
 sudo -v;
