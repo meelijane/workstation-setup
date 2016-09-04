@@ -17,3 +17,6 @@ sudo -v;
 
 sudo -v;
 . atom.sh;
+
+sudo -v;
+. chrome.sh;
