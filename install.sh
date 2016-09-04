@@ -30,3 +30,6 @@ sudo -v;
 . mouse-speed.sh;
 
 . hidden-files.sh;
+
+# Some things do not need a log out and in.
+killall Finder;
