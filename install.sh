@@ -31,6 +31,8 @@ sudo -v;
 
 . utorrent.sh;
 
+. virtualbox.sh;
+
 . mouse-speed.sh;
 
 . hidden-files.sh;
