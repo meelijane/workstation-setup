@@ -37,6 +37,8 @@ sudo -v;
 
 . flux.sh;
 
+. alfred.sh;
+
 . mouse-speed.sh;
 
 . hidden-files.sh;
