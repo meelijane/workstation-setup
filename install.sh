@@ -41,6 +41,8 @@ sudo -v;
 
 . spotify.sh;
 
+. microsoft-office.sh;
+
 . mouse-speed.sh;
 
 . hidden-files.sh;
