@@ -4,10 +4,10 @@ sudo -v;
 . xcode.sh;
 
 sudo -v;
-. mac-os-auto-updates.sh;
+. ssh-key.sh;
 
 sudo -v;
-. ssh-key.sh;
+. mac-os-auto-updates.sh;
 
 sudo -v;
 . homebrew.sh;

@@ -3,6 +3,9 @@
 if [ ! -f ~/.ssh/id_rsa ]; then
   ssh-keygen -t rsa -b 4096;
   ssh-add;
+  echo "=> Log into github and add your SSH key to your account."
+  echo "=> Press the any key to continue."
+  read;
 fi
 
 ssh-add -L;
