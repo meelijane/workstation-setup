@@ -19,5 +19,4 @@ sudo -v;
 
 . atom.sh;
 
-sudo -v;
 . web-browsers.sh;

@@ -19,4 +19,4 @@ git clone git@github.com:meelijane/workstation-setup.git;
 cd workstation-setup;
 
 echo "=> Installing for realz..."
-./install.sh
+. install.sh
