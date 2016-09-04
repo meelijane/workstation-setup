@@ -4,4 +4,6 @@ Make an ssh key.
 
 `curl -sSL http://goo.gl/rGDzXC | bash`
 
+Do everything else.
+
 `curl -sSL http://goo.gl/KK4aHd | bash`
