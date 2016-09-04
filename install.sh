@@ -33,6 +33,8 @@ sudo -v;
 
 . virtualbox.sh;
 
+. vlc.sh;
+
 . mouse-speed.sh;
 
 . hidden-files.sh;
