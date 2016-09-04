@@ -6,5 +6,5 @@ if [ ! -f ~/.ssh/id_rsa ]; then
   ssh-add -L;
   echo "=> Your new public ssh key.";
   echo "=> Log into github and add your SSH key to your account.";
-  read -p "=> Press the any key to continue." ssh-key-is-in-github;
+  read -p "Press the any key to continue.";
 fi
