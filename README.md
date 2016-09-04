@@ -1,8 +1,8 @@
 # workstation-setup
 
-Make an ssh key.
+Make an ssh key and add it to your keychain.
 
-`curl -sSL http://goo.gl/rGDzXC | bash`
+`ssh-keygen -t rsa -b 4096 && ssh-add && ssh-add -L;`
 
 Do everything else.
 
