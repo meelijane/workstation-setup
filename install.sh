@@ -20,3 +20,5 @@ sudo -v;
 . atom.sh;
 
 . web-browsers.sh;
+
+. disk-inventory-x.sh;
