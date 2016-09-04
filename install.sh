@@ -4,6 +4,9 @@ sudo -v;
 . xcode.sh;
 
 sudo -v;
+. ssh-key.sh;
+
+sudo -v;
 . homebrew.sh;
 
 sudo -v;
