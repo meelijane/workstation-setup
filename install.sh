@@ -35,6 +35,8 @@ sudo -v;
 
 . vlc.sh;
 
+. flux.sh;
+
 . mouse-speed.sh;
 
 . hidden-files.sh;
