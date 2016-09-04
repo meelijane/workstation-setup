@@ -26,3 +26,7 @@ sudo -v;
 . sourcetree.sh;
 
 . xscope.sh;
+
+. mouse-speed.sh;
+
+. hidden-files.sh;
