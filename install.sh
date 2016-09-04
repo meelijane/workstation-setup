@@ -22,3 +22,5 @@ sudo -v;
 . web-browsers.sh;
 
 . disk-inventory-x.sh;
+
+. sourcetree.sh;
