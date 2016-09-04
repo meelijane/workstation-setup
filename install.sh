@@ -22,4 +22,4 @@ sudo -v;
 . atom.sh;
 
 sudo -v;
-. chrome.sh;
+. web-browsers.sh;
