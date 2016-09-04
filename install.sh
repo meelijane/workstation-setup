@@ -27,6 +27,8 @@ sudo -v;
 
 . xscope.sh;
 
+. slack.sh;
+
 . mouse-speed.sh;
 
 . hidden-files.sh;
