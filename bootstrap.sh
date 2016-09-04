@@ -7,10 +7,10 @@ cd /tmp;
 unzip -q workstation-setup.zip;
 cd workstation-setup-master;
 
-. xcode.sh;
-. ssh-key.sh;
-. homebrew.sh;
-. git.sh;
+sh xcode.sh;
+sh ssh-key.sh;
+sh homebrew.sh;
+sh git.sh;
 
 echo "=> Cleaning up temporary files..."
 cd $HOME
