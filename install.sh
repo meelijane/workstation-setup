@@ -29,6 +29,8 @@ sudo -v;
 
 . slack.sh;
 
+. utorrent.sh;
+
 . mouse-speed.sh;
 
 . hidden-files.sh;
