@@ -39,6 +39,8 @@ sudo -v;
 
 . alfred.sh;
 
+. spotify.sh;
+
 . mouse-speed.sh;
 
 . hidden-files.sh;
