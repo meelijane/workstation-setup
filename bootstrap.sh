@@ -9,6 +9,7 @@ cd workstation-setup-master;
 
 . xcode.sh;
 . ssh-key.sh;
+. homebrew.sh;
 . git.sh;
 
 echo "=> Cleaning up temporary files..."
