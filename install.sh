@@ -24,3 +24,5 @@ sudo -v;
 . disk-inventory-x.sh;
 
 . sourcetree.sh;
+
+. xscope.sh;
