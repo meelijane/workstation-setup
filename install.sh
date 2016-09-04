@@ -47,5 +47,8 @@ sudo -v;
 
 . hidden-files.sh;
 
+. 1password.sh;
+
+. skitch.sh
 # Some things do not need a log out and in.
 killall Finder;
