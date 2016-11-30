@@ -11,6 +11,8 @@ sudo -v;
 
 . homebrew.sh;
 
+. flowdock.sh;
+
 . wget.sh;
 
 . git.sh;
