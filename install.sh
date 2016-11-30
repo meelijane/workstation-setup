@@ -49,6 +49,8 @@ sudo -v;
 
 . 1password.sh;
 
-. skitch.sh
+. skitch.sh;
+
+. node.sh;
 # Some things do not need a log out and in.
 killall Finder;
